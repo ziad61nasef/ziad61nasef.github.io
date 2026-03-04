@@ -13,9 +13,9 @@ title                    : "Ziad Nasef, Ph.D."
 title_separator          : "-"
 name                     : &name "Ziad Nasef, Ph.D."
 description              : &description "Academic portfolio: biomass thermochemical conversion, reactor-scale modeling, and machine learning."
-url                      : "https://ziad61nasef.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://ziadnasef.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ziad61nasef/ziad61nasef.github.io"
+repository               : "ziadnasef/ziadnasef.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
