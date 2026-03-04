@@ -22,29 +22,29 @@ repository               : "ziad61nasef/ziad61nasef.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Ziad_Nasef.jpeg"   # upload your photo as images/ziad.jpg
+  avatar           : "/images/Ziad_Nasef.jpeg"
   name             : "Ziad Nasef"
   pronouns         :
   bio              : |
-  Mechanical engineer working on biomass thermochemical conversion, reactor-scale modeling, machine learning, and digital twin for energy systems.
+    Mechanical engineer working on biomass thermochemical conversion, reactor-scale modeling, machine learning, and digital twin for energy systems.
 
-  PhD in Mechanical Engineering, University of California, Merced.
+    PhD in Mechanical Engineering, University of California, Merced.
 
-  Research areas include biomass pyrolysis, smoldering combustion modeling, biochar systems, and data-driven reactor modeling.
+    Research areas include biomass pyrolysis, smoldering combustion modeling, biochar systems, and data-driven reactor modeling.
 
-  Personal email: ziad61nasef@gmail.com
+    Personal email: ziad61nasef@gmail.com
   location         : "California, USA"
   employer         : "University of California, Merced"
   uri              :
-  email            : "znasef@ucmerced.edu"                    # add your email if you want it shown
+  email            : "znasef@ucmerced.edu"
 
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?user=_apWtCIAAAAJ&hl=en"   # replace if needed
+  googlescholar    : "https://scholar.google.com/citations?user=_apWtCIAAAAJ&hl=en"
   inspire-hep      :
   impactstory      :
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-5477-7391"                    # paste your ORCID link if you have one
+  orcid            : "https://orcid.org/0009-0007-5477-7391"
   semantic         :
   ssrn             :
   pubmed           :
@@ -71,7 +71,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "ziadnasef"                    # put only your LinkedIn username (not full URL), e.g. "ziad-nasef"
+  linkedin         : "ziadnasef"
   mastodon         :
   medium           :
   pinterest        :
