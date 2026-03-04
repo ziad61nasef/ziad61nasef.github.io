@@ -25,7 +25,7 @@ author:
   avatar           : "/images/Ziad_Nasef.jpeg"   # upload your photo as images/ziad.jpg
   name             : "Ziad Nasef"
   pronouns         :
-  bio: |
+  bio              : |
   Mechanical engineer working on biomass thermochemical conversion, reactor-scale modeling, machine learning, and digital twin for energy systems.
 
   PhD in Mechanical Engineering, University of California, Merced.
